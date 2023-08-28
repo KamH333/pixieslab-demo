@@ -1,0 +1,161 @@
+body {
+    background-image: url(https://img.freepik.com/premium-vector/dense-jungle-rain-forest-scenery-detailed-hand-drawn-painting-illustration_128685-1068.jpg?size=626&ext=jpg&ga=GA1.1.1910206171.1692783106&semt=ais);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1000px;
+}
+.top-menu {
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+a {
+    margin-right: 40px;
+    font-size: 20px;
+    color: black;
+    display: inline-block;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+h2 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+section {
+  text-align: center;
+}
+button {
+  justify-content: center;
+}
+.logo-left {
+    height: 200px;
+    width: 200px;
+    mix-blend-mode: color-burn;
+    position: relative;
+}
+.logo-right {
+    height: 200px;
+    width: 200px;
+    justify-content: right;
+    margin-left: 575px;
+    mix-blend-mode: color-burn;
+}
+main {
+    text-align: center;
+}
+.lashes {
+  height: 500px;
+  width: 500px;
+}
+.bn632-hover {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn23 {
+    background-image: linear-gradient(
+      to right,
+      #009245,
+      #fcee21,
+      #00a8c5,
+      #d9e021
+    );
+    box-shadow: 0 4px 15px 0 rgba(83, 176, 57, 0.75);
+  }
+  .bn632-hover2 {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover2:hover {
+    background-position: 100% 0;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover2:focus {
+    outline: none;
+  }
+  
+  .bn632-hover2.bn23 {
+    background-image: linear-gradient(
+      to right,
+      #009245,
+      #fcee21,
+      #00a8c5,
+      #d9e021
+    );
+    box-shadow: 0 4px 15px 0 rgba(83, 176, 57, 0.75);
+  }
+  .volumeFullSet {
+    margin-bottom: 600px;
+    position: relative;
+    width: 250px;
+    height: 200px;
+    float: left;
+  }
+  h5 {
+    font-size: 25px;
+  }
+  p {
+    font-size: 15px;
+  }
+  .price {
+    margin-left: 500px;
+  }
+  .volumeFill {
+    display: flex;
+    margin: 40px;
+    width: 250px;
+    height: 200px;
+    float: left;
+  }
